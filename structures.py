@@ -19,6 +19,7 @@ def test_counter():
     print a
     print a.most_common(2)
 
+
 # Deque
 def test_deque():
     q = cl.deque(range(5))
